@@ -10,11 +10,11 @@ public class Egg extends Decorator {
 
     @Override
     public float cost() {
-        return getPrice() + getFastFood().getPrice();
+        return super.getPrice() + super.getFastFood().getPrice();
     }
 
     @Override
     public String getDesc() {
-        return super.getDesc() + getFastFood().getDesc();
+        return super.getDesc() + super.getFastFood().getDesc();
     }
 }

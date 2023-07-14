@@ -16,23 +16,23 @@ public class SmartSpeaker {
 
     public void say(String mes) {
         if (mes.contains("打开")) {
-            on();
+            open();
         } else if (mes.contains("关闭")) {
-            off();
+            close();
         } else {
             System.out.println("I don't know");
         }
     }
 
     // 一键打开
-    private void on() {
+    private void open() {
         light.on();
         tv.on();
         airConditioner.on();
     }
 
     // 一键关闭
-    private void off() {
+    private void close() {
         light.off();
         tv.off();
         airConditioner.off();

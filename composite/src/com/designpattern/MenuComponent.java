@@ -3,7 +3,7 @@ package com.designpattern;
 /**
  * {@code @Description:} 菜单组件
  */
-// 无论是菜单或是菜单项，都应该继承该抽象类
+// 无论是菜单或菜单项，都应该继承该抽象类
 public abstract class MenuComponent {
     protected String name;
     protected int level;

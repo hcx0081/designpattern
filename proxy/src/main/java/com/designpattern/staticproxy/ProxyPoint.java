@@ -1,7 +1,7 @@
 package com.designpattern.staticproxy;
 
 /**
- * {@code @Description:} 静态代理对象：代售点
+ * {@code @Description:} 静态代理类
  */
 public class ProxyPoint implements SellTickets {
     // 声明火车站对象

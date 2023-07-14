@@ -6,7 +6,7 @@ package com.designpattern.factory.factorymethod;
 public class CoffeeStore {
     private CoffeeFactory coffeeFactory;
 
-    public void setCoffeeFactory(CoffeeFactory coffeeFactory) {
+    public CoffeeStore(CoffeeFactory coffeeFactory) {
         this.coffeeFactory = coffeeFactory;
     }
 

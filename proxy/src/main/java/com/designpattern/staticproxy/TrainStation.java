@@ -1,7 +1,7 @@
 package com.designpattern.staticproxy;
 
 /**
- * {@code @Description:} 目标对象：火车站
+ * {@code @Description:} 真实主题类
  */
 public class TrainStation implements SellTickets {
     @Override
