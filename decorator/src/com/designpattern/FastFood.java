@@ -1,14 +1,11 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 抽象构件（快餐抽象类）
+ * {@code @Description:} 抽象构件类（快餐）
  */
 public abstract class FastFood {
     private float price;
     private String desc;
-
-    public FastFood() {
-    }
 
     public FastFood(float price, String desc) {
         this.price = price;
@@ -16,19 +13,11 @@ public abstract class FastFood {
     }
 
     public float getPrice() {
-        return price;
-    }
-
-    public void setPrice(float price) {
-        this.price = price;
+        return this.price;
     }
 
     public String getDesc() {
-        return desc;
-    }
-
-    public void setDesc(String desc) {
-        this.desc = desc;
+        return this.desc;
     }
 
     public abstract float cost();

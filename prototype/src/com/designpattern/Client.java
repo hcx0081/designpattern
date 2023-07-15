@@ -13,6 +13,7 @@ public class Client {
 
         Person zs = new Person("zs", 20, new Bag(10));
         Person zsClone = zs.clone();
+        System.out.println(zs == zsClone);// false
         System.out.println(zs.name == zsClone.name);// true
         System.out.println(zs.age == zsClone.age);// true
         System.out.println(zs.bag == zsClone.bag);// true

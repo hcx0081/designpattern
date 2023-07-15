@@ -5,10 +5,10 @@ package com.designpattern;
  */
 public class Person implements Cloneable {
     String name;
-    int age;
+    Integer age;
     Bag bag;
 
-    public Person(String name, int age, Bag bag) {
+    public Person(String name, Integer age, Bag bag) {
         this.name = name;
         this.age = age;
         this.bag = bag;

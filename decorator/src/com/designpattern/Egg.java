@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 具体装饰器类（鸡蛋）
  */
 public class Egg extends Decorator {
     public Egg(FastFood fastFood) {
@@ -10,11 +10,11 @@ public class Egg extends Decorator {
 
     @Override
     public float cost() {
-        return super.getPrice() + super.getFastFood().getPrice();
+        return super.getFastFood().cost() + super.getPrice();
     }
 
     @Override
     public String getDesc() {
-        return super.getDesc() + super.getFastFood().getDesc();
+        return super.getFastFood().getDesc() + super.getDesc();
     }
 }
