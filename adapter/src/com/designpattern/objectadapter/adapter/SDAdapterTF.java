@@ -1,13 +1,13 @@
 package com.designpattern.objectadapter.adapter;
 
-import com.designpattern.objectadapter.SDCard;
-import com.designpattern.objectadapter.TFCard;
+import com.designpattern.objectadapter.adaptee.SDCard;
+import com.designpattern.objectadapter.adaptee.TFCard;
 
 /**
  * {@code @Description:} 适配器类
  */
 public class SDAdapterTF implements SDCard {
-    // 引入适配者类
+    // 引用适配者类
     private TFCard tfCard;
 
     public SDAdapterTF(TFCard tfCard) {

@@ -1,7 +1,8 @@
 package com.designpattern.classadapter;
 
+import com.designpattern.classadapter.adaptee.SDCard;
+import com.designpattern.classadapter.adaptee.impl.SDCardImpl;
 import com.designpattern.classadapter.adapter.SDAdapterTF;
-import com.designpattern.classadapter.impl.SDCardImpl;
 
 /**
  * {@code @Description:}

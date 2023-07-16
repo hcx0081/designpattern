@@ -1,7 +1,7 @@
 package com.designpattern.classadapter.adapter;
 
-import com.designpattern.classadapter.SDCard;
-import com.designpattern.classadapter.impl.TFCardImpl;
+import com.designpattern.classadapter.adaptee.SDCard;
+import com.designpattern.classadapter.adaptee.impl.TFCardImpl;
 
 /**
  * {@code @Description:} 适配器类
@@ -9,6 +9,6 @@ import com.designpattern.classadapter.impl.TFCardImpl;
 public class SDAdapterTF extends TFCardImpl implements SDCard {
     @Override
     public String readSD() {
-        return readTF();
+        return super.readTF();
     }
 }

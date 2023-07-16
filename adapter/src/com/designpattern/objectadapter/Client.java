@@ -1,8 +1,10 @@
 package com.designpattern.objectadapter;
 
+import com.designpattern.objectadapter.adaptee.SDCard;
+import com.designpattern.objectadapter.adaptee.TFCard;
+import com.designpattern.objectadapter.adaptee.impl.SDCardImpl;
+import com.designpattern.objectadapter.adaptee.impl.TFCardImpl;
 import com.designpattern.objectadapter.adapter.SDAdapterTF;
-import com.designpattern.objectadapter.impl.SDCardImpl;
-import com.designpattern.objectadapter.impl.TFCardImpl;
 
 /**
  * {@code @Description:}

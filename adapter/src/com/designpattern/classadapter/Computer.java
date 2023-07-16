@@ -1,5 +1,7 @@
 package com.designpattern.classadapter;
 
+import com.designpattern.classadapter.adaptee.SDCard;
+
 /**
  * {@code @Description:}
  */
