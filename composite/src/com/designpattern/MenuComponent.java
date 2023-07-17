@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 菜单组件
+ * {@code @Description:} 抽象根节点类（菜单组件）
  */
 // 无论是菜单或菜单项，都应该继承该抽象类
 public abstract class MenuComponent {
@@ -13,17 +13,17 @@ public abstract class MenuComponent {
         this.level = level;
     }
 
-    // 添加子菜单
+    // 添加子菜单或子菜单项
     public void add(MenuComponent menuComponent) {
         throw new UnsupportedOperationException();// 子菜单项无法调用该方法
     }
 
-    // 移除子菜单
+    // 移除子菜单或子菜单项
     public void remove(MenuComponent menuComponent) {
         throw new UnsupportedOperationException();// 子菜单项无法调用该方法
     }
 
-    // 获取指定的子菜单或子菜单项
+    // 获取子菜单或子菜单项
     public MenuComponent getChild(int i) {
         throw new UnsupportedOperationException();// 子菜单项无法调用该方法
     }

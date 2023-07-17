@@ -1,7 +1,9 @@
-package com.designpattern.jdk;
+package com.designpattern.jdk.aggregate;
+
+import com.designpattern.jdk.Student;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 抽象集合类
  */
 public interface StudentContainer extends Iterable<Student> {
     void addStudent(Student student);

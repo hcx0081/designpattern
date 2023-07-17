@@ -1,12 +1,12 @@
-package com.designpattern.jdk.impl;
+package com.designpattern.custom.iterator.impl;
 
-import com.designpattern.jdk.Student;
-import com.designpattern.jdk.StudentIterator;
+import com.designpattern.custom.Student;
+import com.designpattern.custom.iterator.StudentIterator;
 
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 具体迭代器类
  */
 public class StudentIteratorImpl implements StudentIterator {
     // 需要遍历的学生集合
