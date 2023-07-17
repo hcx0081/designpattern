@@ -1,7 +1,7 @@
 package com.designpattern.whitebox;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 管理者类
  */
 public class RoleStateMementoCaretaker {
     private RoleStateMemento roleStateMemento;

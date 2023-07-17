@@ -1,7 +1,7 @@
 package com.designpattern.whitebox;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 发起人类
  */
 public class Role {
     // 生命力
@@ -11,7 +11,7 @@ public class Role {
     // 防御力
     private int def;
 
-    // 初始化内部状态
+    // 初始化角色状态
     public void initState() {
         this.vit = 100;
         this.atk = 100;
@@ -37,7 +37,7 @@ public class Role {
         this.def = roleStateMemento.getDef();
     }
 
-    // 显示状态
+    // 显示角色状态
     public void displayState() {
         System.out.println("角色生命力：" + vit);
         System.out.println("角色攻击力：" + atk);
