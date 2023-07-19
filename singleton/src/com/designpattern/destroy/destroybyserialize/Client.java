@@ -8,7 +8,7 @@ import java.io.*;
 public class Client {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         writeObject2File();
-        /*两次读到的对象的地址不同，说明不是同一个对象*/
+        /* 两次读到的对象的地址不同，说明不是同一个对象 */
         readObjectFromFile();
         readObjectFromFile();
     }

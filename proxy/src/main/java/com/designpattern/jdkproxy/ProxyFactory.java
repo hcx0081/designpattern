@@ -8,7 +8,7 @@ import java.lang.reflect.Proxy;
  * {@code @Description:} 代理对象工厂类：获取代理对象的工厂类
  */
 public class ProxyFactory {
-    // 声明目标对象（火车站）
+    // 声明火车站对象
     private TrainStation trainStation = new TrainStation();
 
     // 动态获取代理对象

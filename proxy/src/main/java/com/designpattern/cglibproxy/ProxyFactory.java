@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
  * {@code @Description:} 代理对象工厂类：获取代理对象的工厂类
  */
 public class ProxyFactory implements MethodInterceptor {
-    // 声明目标对象（火车站）
+    // 声明火车站对象
     private TrainStation trainStation = new TrainStation();
 
     // 获取代理对象的方法
@@ -25,7 +25,7 @@ public class ProxyFactory implements MethodInterceptor {
         TrainStation trainStation = (TrainStation) enhancer.create();
         return trainStation;
     }
-    
+
     /*
      * Object o：代理对象
      * Method method：对接口中的方法进行封装的method对象
