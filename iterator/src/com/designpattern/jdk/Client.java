@@ -1,6 +1,7 @@
 package com.designpattern.jdk;
 
-import com.designpattern.jdk.impl.StudentContainerImpl;
+import com.designpattern.jdk.aggregate.StudentContainer;
+import com.designpattern.jdk.aggregate.impl.StudentContainerImpl;
 
 import java.util.Iterator;
 

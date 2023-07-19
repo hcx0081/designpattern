@@ -1,14 +1,15 @@
-package com.designpattern.jdk.impl;
+package com.designpattern.custom.aggregate.impl;
 
-import com.designpattern.jdk.Student;
-import com.designpattern.jdk.StudentContainer;
+import com.designpattern.custom.Student;
+import com.designpattern.custom.aggregate.StudentContainer;
+import com.designpattern.custom.iterator.StudentIterator;
+import com.designpattern.custom.iterator.impl.StudentIteratorImpl;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 具体集合类
  */
 public class StudentContainerImpl implements StudentContainer {
     // 存储学生
@@ -25,7 +26,7 @@ public class StudentContainerImpl implements StudentContainer {
     }
 
     @Override
-    public Iterator<Student> iterator() {
+    public StudentIterator getStudentIterator() {
         return new StudentIteratorImpl(studentList);
     }
 }

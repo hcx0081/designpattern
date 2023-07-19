@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * {@code @Description:} 菜单
+ * {@code @Description:} 树枝节点类（菜单）
  */
 public class Menu extends MenuComponent {
     // 一个菜单下可以有多个子菜单或子菜单项

@@ -1,7 +1,9 @@
-package com.designpattern.custom;
+package com.designpattern.custom.iterator;
+
+import com.designpattern.custom.Student;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 抽象迭代器类
  */
 public interface StudentIterator {
     // 判断是否还有元素
