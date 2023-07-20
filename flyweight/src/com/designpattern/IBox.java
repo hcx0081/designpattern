@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @Description:} 具体享元类
  */
 public class IBox extends AbstractBox {
     @Override

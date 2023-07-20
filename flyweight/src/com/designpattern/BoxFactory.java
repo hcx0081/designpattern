@@ -3,7 +3,7 @@ package com.designpattern;
 import java.util.HashMap;
 
 /**
- * {@code @Description:} 工厂模式
+ * {@code @Description:} 享元工厂类
  */
 public class BoxFactory {
     private static BoxFactory boxFactory = new BoxFactory();
@@ -22,6 +22,6 @@ public class BoxFactory {
     }
 
     public AbstractBox getBox(String name) {
-        return map.get(name);
+        return this.map.get(name);
     }
 }
