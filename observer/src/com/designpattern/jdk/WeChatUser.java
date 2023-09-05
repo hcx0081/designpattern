@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class WeChatUser implements Observer {
     private String name;

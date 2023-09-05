@@ -2,7 +2,7 @@ package com.designpattern.factory.configfactory;
 
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class CoffeeStore {
     public Coffee orderCoffee(String name) {

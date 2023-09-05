@@ -1,7 +1,7 @@
 package com.designpattern.factory.simplefactory;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

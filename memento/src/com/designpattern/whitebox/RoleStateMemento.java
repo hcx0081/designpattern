@@ -1,7 +1,7 @@
 package com.designpattern.whitebox;
 
 /**
- * {@code @Description:} 备忘录类
+ * {@code @description:} 备忘录类
  */
 public class RoleStateMemento {
     // 生命力

@@ -1,7 +1,7 @@
 package com.designpattern.jdk;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Student {
     private String name;

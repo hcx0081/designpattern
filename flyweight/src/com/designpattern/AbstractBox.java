@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 抽象享元类
+ * {@code @description:} 抽象享元类
  */
 public abstract class AbstractBox {
     public abstract String getShape();

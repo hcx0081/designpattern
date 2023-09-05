@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class AirConditioner {
     public void on() {

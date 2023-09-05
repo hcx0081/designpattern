@@ -1,7 +1,7 @@
 package com.designpattern.filter;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface Response {
 }

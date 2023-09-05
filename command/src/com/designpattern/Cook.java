@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Cook {
     public void cooking(String foodName, int num) {

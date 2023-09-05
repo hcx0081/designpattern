@@ -3,7 +3,7 @@ package com.designpattern.destroy.destroybyreflect;
 import java.io.Serializable;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Singleton implements Serializable {
 

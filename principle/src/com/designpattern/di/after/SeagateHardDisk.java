@@ -1,7 +1,7 @@
 package com.designpattern.di.after;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class SeagateHardDisk implements HardDisk {
     public String get() {

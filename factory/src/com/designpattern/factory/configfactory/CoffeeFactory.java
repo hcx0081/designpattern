@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Properties;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class CoffeeFactory {
     /* 加载配置文件，获取配置文件中配置的全类名，并且通过反射创建该类的实例进行存储 */

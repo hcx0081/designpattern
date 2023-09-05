@@ -1,7 +1,7 @@
 package com.designpattern.before;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface ILift {
     // 开门状态

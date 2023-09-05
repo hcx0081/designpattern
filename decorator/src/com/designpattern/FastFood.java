@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 抽象构件类（快餐）
+ * {@code @description:} 抽象构件类（快餐）
  */
 public abstract class FastFood {
     private float price;

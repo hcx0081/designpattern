@@ -4,7 +4,7 @@ import com.designpattern.classadapter.adaptee.SDCard;
 import com.designpattern.classadapter.adaptee.impl.TFCardImpl;
 
 /**
- * {@code @Description:} 适配器类
+ * {@code @description:} 适配器类
  */
 public class SDAdapterTF extends TFCardImpl implements SDCard {
     @Override

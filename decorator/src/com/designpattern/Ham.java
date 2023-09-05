@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 具体装饰器类（火腿）
+ * {@code @description:} 具体装饰器类（火腿）
  */
 public class Ham extends Decorator {
     public Ham(FastFood fastFood) {

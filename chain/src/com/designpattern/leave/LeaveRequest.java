@@ -1,7 +1,7 @@
 package com.designpattern.leave;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class LeaveRequest {
     private String name;

@@ -3,7 +3,7 @@ package com.designpattern.custom.iterator;
 import com.designpattern.custom.Student;
 
 /**
- * {@code @Description:} 抽象迭代器类
+ * {@code @description:} 抽象迭代器类
  */
 public interface StudentIterator {
     // 判断是否还有元素

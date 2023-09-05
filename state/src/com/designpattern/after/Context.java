@@ -1,7 +1,7 @@
 package com.designpattern.after;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Context {
     public static final OpeningState OPENING_STATE = new OpeningState();

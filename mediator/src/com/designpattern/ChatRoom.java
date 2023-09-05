@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class ChatRoom {
     public void showMes(String userName, String mes) {

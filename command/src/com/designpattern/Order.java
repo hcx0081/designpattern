@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Order {
     // 餐桌号

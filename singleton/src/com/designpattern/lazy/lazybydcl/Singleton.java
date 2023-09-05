@@ -1,7 +1,7 @@
 package com.designpattern.lazy.lazybydcl;
 
 /**
- * {@code @Description:} 懒汉式
+ * {@code @description:} 懒汉式
  */
 public class Singleton {
     // 加上volatile关键字防止空指针

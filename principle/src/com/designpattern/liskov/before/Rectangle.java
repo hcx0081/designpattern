@@ -1,7 +1,7 @@
 package com.designpattern.liskov.before;
 
 /**
- * {@code @Description:} 长方形类
+ * {@code @description:} 长方形类
  */
 public class Rectangle {
     private double width;

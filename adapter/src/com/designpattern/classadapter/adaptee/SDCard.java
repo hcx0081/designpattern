@@ -1,7 +1,7 @@
 package com.designpattern.classadapter.adaptee;
 
 /**
- * {@code @Description:} 目标类
+ * {@code @description:} 目标类
  */
 public interface SDCard {
     String readSD();

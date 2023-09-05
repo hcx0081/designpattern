@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Square extends Shape {
     public Square(Pen pen) {

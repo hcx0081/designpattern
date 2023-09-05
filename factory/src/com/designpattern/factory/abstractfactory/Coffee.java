@@ -1,7 +1,7 @@
 package com.designpattern.factory.abstractfactory;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public abstract class Coffee {
 

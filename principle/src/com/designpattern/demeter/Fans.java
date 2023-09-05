@@ -1,7 +1,7 @@
 package com.designpattern.demeter;
 
 /**
- * {@code @Description:} 粉丝类
+ * {@code @description:} 粉丝类
  */
 public class Fans {
     String name;

@@ -1,7 +1,7 @@
 package com.designpattern.custom;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class WeChatUser implements Subscriber {
     private String name;

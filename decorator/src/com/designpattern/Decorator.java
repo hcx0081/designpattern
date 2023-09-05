@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 抽象装饰器类
+ * {@code @description:} 抽象装饰器类
  */
 public abstract class Decorator extends FastFood {
     private FastFood fastFood;

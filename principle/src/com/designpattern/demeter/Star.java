@@ -1,7 +1,7 @@
 package com.designpattern.demeter;
 
 /**
- * {@code @Description:} 明星类
+ * {@code @description:} 明星类
  */
 public class Star {
     String name;

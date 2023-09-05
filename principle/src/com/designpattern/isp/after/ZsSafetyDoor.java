@@ -1,7 +1,7 @@
 package com.designpattern.isp.after;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class ZsSafetyDoor implements Fireproof, Waterproof, AntiTheft {
     @Override

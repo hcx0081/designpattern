@@ -1,7 +1,7 @@
 package com.designpattern.jdkproxy;
 
 /**
- * {@code @Description:} 真实主题类
+ * {@code @description:} 真实主题类
  */
 public class TrainStation implements SellTickets {
     @Override

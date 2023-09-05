@@ -1,7 +1,7 @@
 package com.designpattern.lazy.lazybystaticinner;
 
 /**
- * {@code @Description:} 懒汉式
+ * {@code @description:} 懒汉式
  */
 public class Singleton {
     private Singleton() {

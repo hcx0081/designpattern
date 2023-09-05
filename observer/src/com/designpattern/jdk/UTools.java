@@ -3,7 +3,7 @@ package com.designpattern.jdk;
 import java.util.Observable;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class UTools extends Observable {
     @Override

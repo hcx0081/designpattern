@@ -1,7 +1,7 @@
 package com.designpattern.factory.factorymethod;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class CoffeeStore {
     private CoffeeFactory coffeeFactory;

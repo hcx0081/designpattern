@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class FilterChain {
     private List<Filter> filterList = new ArrayList<>();

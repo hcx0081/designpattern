@@ -3,7 +3,7 @@ package com.designpattern.simplify;
 import com.designpattern.standard.Bike;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

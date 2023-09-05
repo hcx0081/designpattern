@@ -1,7 +1,7 @@
 package com.designpattern.before;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Lift implements ILift {
     private int state;

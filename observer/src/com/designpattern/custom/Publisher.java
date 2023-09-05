@@ -1,7 +1,7 @@
 package com.designpattern.custom;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface Publisher {
     // 添加订阅者

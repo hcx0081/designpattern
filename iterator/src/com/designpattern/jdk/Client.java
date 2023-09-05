@@ -6,7 +6,7 @@ import com.designpattern.jdk.aggregate.impl.StudentContainerImpl;
 import java.util.Iterator;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

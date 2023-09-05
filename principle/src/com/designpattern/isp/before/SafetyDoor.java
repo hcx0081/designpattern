@@ -1,7 +1,7 @@
 package com.designpattern.isp.before;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface SafetyDoor {
     // 防火

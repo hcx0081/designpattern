@@ -5,7 +5,7 @@ import com.designpattern.classadapter.adaptee.impl.SDCardImpl;
 import com.designpattern.classadapter.adapter.SDAdapterTF;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

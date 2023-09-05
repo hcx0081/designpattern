@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 变量
+ * {@code @description:} 变量
  */
 public class Variable extends AbstractExpression {
     // 变量名

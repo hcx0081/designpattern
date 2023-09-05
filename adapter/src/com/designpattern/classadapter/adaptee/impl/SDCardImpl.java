@@ -3,7 +3,7 @@ package com.designpattern.classadapter.adaptee.impl;
 import com.designpattern.classadapter.adaptee.SDCard;
 
 /**
- * {@code @Description:} 目标类
+ * {@code @description:} 目标类
  */
 public class SDCardImpl implements SDCard {
     @Override

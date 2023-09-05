@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 具体享元类
+ * {@code @description:} 具体享元类
  */
 public class LBox extends AbstractBox {
     @Override

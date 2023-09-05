@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Home {
     // 存储元素

@@ -1,7 +1,7 @@
 package com.designpattern.openclose;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class DefaultSkin extends AbstractSkin {
     @Override

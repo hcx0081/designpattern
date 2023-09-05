@@ -1,7 +1,7 @@
 package com.designpattern.di.before;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class KingstonMemory {
     public void save() {

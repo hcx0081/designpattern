@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * {@code @Description:} 具体集合类
+ * {@code @description:} 具体集合类
  */
 public class StudentContainerImpl implements StudentContainer {
     // 存储学生

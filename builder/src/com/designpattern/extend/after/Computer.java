@@ -1,7 +1,7 @@
 package com.designpattern.extend.after;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Computer {
     private String cpu;

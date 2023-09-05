@@ -1,7 +1,7 @@
 package com.designpattern.demeter;
 
 /**
- * {@code @Description:} 经纪人类
+ * {@code @description:} 经纪人类
  */
 public class Agent {
     private Star star;

@@ -1,7 +1,7 @@
 package com.designpattern.factory.simplefactory;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class SimpleCoffeeFactory {
     // 加上static修饰符则是静态工厂模式

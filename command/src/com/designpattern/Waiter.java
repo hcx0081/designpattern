@@ -3,7 +3,7 @@ package com.designpattern;
 import java.util.ArrayList;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Waiter {
     // 可以请求多个命令

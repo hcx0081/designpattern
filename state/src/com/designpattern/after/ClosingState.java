@@ -1,7 +1,7 @@
 package com.designpattern.after;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class ClosingState extends LiftState {
     @Override

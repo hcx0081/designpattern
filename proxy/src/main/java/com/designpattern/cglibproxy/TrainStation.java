@@ -1,7 +1,7 @@
 package com.designpattern.cglibproxy;
 
 /**
- * {@code @Description:} 目标对象：火车站
+ * {@code @description:} 目标对象：火车站
  */
 public class TrainStation {
     public void sell() {

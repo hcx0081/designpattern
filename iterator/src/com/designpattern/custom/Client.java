@@ -5,7 +5,7 @@ import com.designpattern.custom.aggregate.impl.StudentContainerImpl;
 import com.designpattern.custom.iterator.StudentIterator;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

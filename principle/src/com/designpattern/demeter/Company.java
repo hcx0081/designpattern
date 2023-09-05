@@ -1,7 +1,7 @@
 package com.designpattern.demeter;
 
 /**
- * {@code @Description:} 公司类
+ * {@code @description:} 公司类
  */
 public class Company {
     String name;

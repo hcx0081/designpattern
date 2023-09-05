@@ -1,7 +1,7 @@
 package com.designpattern.custom;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Student {
     private String name;

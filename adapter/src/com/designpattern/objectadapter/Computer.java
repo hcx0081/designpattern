@@ -3,7 +3,7 @@ package com.designpattern.objectadapter;
 import com.designpattern.objectadapter.adaptee.SDCard;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Computer {
     // Computer只能从SDCard中读取数据

@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 抽象根节点类（菜单组件）
+ * {@code @description:} 抽象根节点类（菜单组件）
  */
 // 无论是菜单或菜单项，都应该继承该抽象类
 public abstract class MenuComponent {

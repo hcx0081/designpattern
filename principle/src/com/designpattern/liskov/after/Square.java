@@ -1,7 +1,7 @@
 package com.designpattern.liskov.after;
 
 /**
- * {@code @Description:} 正方形类
+ * {@code @description:} 正方形类
  */
 public class Square implements Quadrilateral {
     // 边长

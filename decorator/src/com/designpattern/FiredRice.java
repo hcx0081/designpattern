@@ -1,7 +1,7 @@
 package com.designpattern;
 
 /**
- * {@code @Description:} 具体构件类（炒饭）
+ * {@code @description:} 具体构件类（炒饭）
  */
 public class FiredRice extends FastFood {
     public FiredRice() {

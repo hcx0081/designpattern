@@ -7,7 +7,7 @@ import net.sf.cglib.proxy.MethodProxy;
 import java.lang.reflect.Method;
 
 /**
- * {@code @Description:} 代理对象工厂类：获取代理对象的工厂类
+ * {@code @description:} 代理对象工厂类：获取代理对象的工厂类
  */
 public class ProxyFactory implements MethodInterceptor {
     // 声明火车站对象

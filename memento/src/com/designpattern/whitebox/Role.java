@@ -1,7 +1,7 @@
 package com.designpattern.whitebox;
 
 /**
- * {@code @Description:} 发起人类
+ * {@code @description:} 发起人类
  */
 public class Role {
     // 生命力

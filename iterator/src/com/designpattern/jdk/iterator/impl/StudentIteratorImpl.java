@@ -6,7 +6,7 @@ import com.designpattern.jdk.iterator.StudentIterator;
 import java.util.List;
 
 /**
- * {@code @Description:} 具体迭代器类
+ * {@code @description:} 具体迭代器类
  */
 public class StudentIteratorImpl implements StudentIterator {
     // 需要遍历的学生集合

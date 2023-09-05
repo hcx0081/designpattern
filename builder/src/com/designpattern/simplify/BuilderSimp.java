@@ -3,7 +3,7 @@ package com.designpattern.simplify;
 import com.designpattern.standard.Bike;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public abstract class BuilderSimp {
     protected Bike bike = new Bike();

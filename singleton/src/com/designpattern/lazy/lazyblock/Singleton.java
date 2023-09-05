@@ -1,7 +1,7 @@
 package com.designpattern.lazy.lazyblock;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Singleton {
     private static Singleton instance;

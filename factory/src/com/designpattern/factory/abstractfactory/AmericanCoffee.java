@@ -2,7 +2,7 @@ package com.designpattern.factory.abstractfactory;
 
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class AmericanCoffee extends Coffee {
     @Override

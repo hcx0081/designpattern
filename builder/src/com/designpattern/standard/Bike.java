@@ -1,7 +1,7 @@
 package com.designpattern.standard;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Bike {
     // 车架

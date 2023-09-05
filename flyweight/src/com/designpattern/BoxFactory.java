@@ -3,7 +3,7 @@ package com.designpattern;
 import java.util.HashMap;
 
 /**
- * {@code @Description:} 享元工厂类
+ * {@code @description:} 享元工厂类
  */
 public class BoxFactory {
     private static BoxFactory boxFactory = new BoxFactory();

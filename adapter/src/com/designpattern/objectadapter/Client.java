@@ -7,7 +7,7 @@ import com.designpattern.objectadapter.adaptee.impl.TFCardImpl;
 import com.designpattern.objectadapter.adapter.SDAdapterTF;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Client {
     public static void main(String[] args) {

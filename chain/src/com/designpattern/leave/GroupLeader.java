@@ -1,7 +1,7 @@
 package com.designpattern.leave;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class GroupLeader extends Handler {
     public GroupLeader() {

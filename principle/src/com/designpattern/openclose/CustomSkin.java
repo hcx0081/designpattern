@@ -1,7 +1,7 @@
 package com.designpattern.openclose;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class CustomSkin extends AbstractSkin {
     @Override

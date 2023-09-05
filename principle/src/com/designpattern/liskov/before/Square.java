@@ -1,7 +1,7 @@
 package com.designpattern.liskov.before;
 
 /**
- * {@code @Description:} 正方形类，正方形是特殊的长方形
+ * {@code @description:} 正方形类，正方形是特殊的长方形
  */
 public class Square extends Rectangle {
     /*

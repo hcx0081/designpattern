@@ -1,7 +1,7 @@
 package com.designpattern.standard;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public abstract class Builder {
     protected Bike bike = new Bike();

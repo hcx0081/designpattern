@@ -1,7 +1,7 @@
 package com.designpattern.leave;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public abstract class Handler {
     protected static final int NUM_ZERO = 0;

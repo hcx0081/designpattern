@@ -1,7 +1,7 @@
 package com.designpattern.standard;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Director {
     private Builder builder;
